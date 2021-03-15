@@ -27,7 +27,8 @@ Type `\q` to quite Postgres.
 ![pg](./assets/postgres.png)
 
 ### If you get an error:
-* You may have installed postgres, but forgot to install the comand line tools
+* run `psql --verion`. If you get a version number back, it means you install the command line tools, but did not install postgres itself from the web.
+* If you don't get a verison number back, you may have installed postgres, but forgot to install the comand line tools.
 
 # Install pgAdmin
 
