@@ -25,6 +25,9 @@ Type `\q` to quite Postgres.
 
 ![pg](./assets/postgres.png)
 
+### If you get an error:
+* You may have installed postgres, but forgot to install the comand line tools
+
 # Install pgAdmin
 
 [Download pgAdmin here](https://www.pgadmin.org/download/)
