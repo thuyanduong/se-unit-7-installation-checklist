@@ -50,4 +50,7 @@ pgAdmin is a UI used to interact with your Postgres databases.
 
 4. You should be able to expand "Servers", then expand "Postgres", then expand "Databases" and see the same database names you were able to see using `psql`.
 
+![databases](./assets/databases.png)
+
+
 ### If you were able to get thorugh all these steps without issues, then you are done!
