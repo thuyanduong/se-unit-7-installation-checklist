@@ -10,6 +10,7 @@ You need to use docker via the command line. To test if you've installed everyth
 ![docker](./assets/docker.png)
 
 ### If you get an error, try:
+* For WSL users, you may be able to install the command tools if you run `sudo apt install docker.io`
 * Starting the Docker desktop app
 * Restarting your Terminal and running the `docker` command again
 
